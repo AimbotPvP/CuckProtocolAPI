@@ -1,0 +1,4 @@
+name: CuckProtocolAPI
+version: 1.0
+main: us.skidrevenant.cuckprotocolapi.CuckProtocolAPI
+desc: A lightweight packet api
